@@ -2,8 +2,7 @@
 
 ## 👋 About Me
 - 💻 Web and Frontend Developer
-- 🇰🇷  Korea Specialist
-- 🎨 Passionate about Korean culture and web development
+- 🎨 Korea Specialist
 
 ## 🌟 Featured Projects
 - [Pop Mod](https://oyeonoppa.github.io/popMod/) - คู่แข่ง Pop Cat 
