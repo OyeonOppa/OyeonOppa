@@ -2,12 +2,12 @@
 
 ## 👋 About Me
 - 💻 Web and Frontend Developer
-- 🇰🇷 Korea Specialist
+- 🇰🇷  Korea Specialist
 - 🎨 Passionate about Korean culture and web development
 
 ## 🌟 Featured Projects
-- [Pop Mod](https://oyeonoppa.github.io/popMod/) - A brief description of this project
-- [KPI Wellwishes](https://oyeonoppa.github.io/kpiWellwish/) - A brief description of this project
+- [Pop Mod](https://oyeonoppa.github.io/popMod/) - คู่แข่ง Pop Cat 
+- [KPI Wellwishes](https://oyeonoppa.github.io/kpiWellwish/) - ระบบอวยพรออนไลน์
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
