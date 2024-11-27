@@ -5,7 +5,8 @@
 - 🎨 Korea Specialist
 
 ## 🌟 Featured Projects
-- [Pop Mod](https://oyeonoppa.github.io/popMod/) - คู่แข่ง Pop Cat 
+- [Pop Mod](https://oyeonoppa.github.io/popMod/) - คู่แข่ง Pop Cat
+- [xmasLotto](https://oyeonoppa.github.io/xmasLotto/) - ขูดรางวัล
 - [KPI Wellwishes](https://oyeonoppa.github.io/kpiWellwish/) - ระบบอวยพรออนไลน์
 
 ## 🛠️ Skills
