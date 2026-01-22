@@ -7,7 +7,6 @@
 ## 🌟 Featured Projects
 - [Pop Mod](https://oyeonoppa.github.io/popMod/) - คู่แข่ง Pop Cat
 - [xmasLotto](https://oyeonoppa.github.io/xmasLotto/) - ขูดรางวัล
-- [KPI Wellwishes](https://oyeonoppa.github.io/kpiWellwish/) - ระบบอวยพรออนไลน์
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
@@ -16,7 +15,7 @@
 
 ## 📫 Contact Me
 - 📧 Email: worasit.koa@gmail.com
-- 🌐 Website: TBA
+- 🌐 Website: https://oyeon.me
 
 ## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OyeonOppa&show_icons=true&theme=radical)
